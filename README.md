@@ -1,6 +1,6 @@
 ## 소독가들을 위한 다독 장려 프로젝트
 
-![Cover_img](Document/Book Cover/Cover_img.png)
+![Cover_img](Document/Cover/Cover_img.png)
 
 
 ## 프로젝트 개요
